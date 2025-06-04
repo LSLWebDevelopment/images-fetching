@@ -1,3 +1,6 @@
+This project is going to apply a functionality to fetch images from unsplash website
+The user enter a search term like: car, motorcycle, flowers etc and a list with 10 results of the search term will appear right bellow the search bar
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
